@@ -1,7 +1,7 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router'
 import Header from './components/header'
-import HeroSection from './components/herosection'
+import HeroSection from './components/heroSection'
 import Playlist from './components/playlist'
 import Artists from './components/artists'
 import Contact from './components/contact'
